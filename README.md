@@ -174,9 +174,6 @@ or reach out directly.
 
 ## Contact
 
-For governance and policy discussions: 
-[your email]
-
 For technical discussions: 
 Open an issue in this repository.
 
